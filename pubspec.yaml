@@ -54,7 +54,7 @@ dev_dependencies:
   golden_toolkit: ^0.11.0
   mockito: ^5.0.4
   super_editor_markdown:
-    path: ../super_editor_markdown
+    path: ./super_editor_markdown
   text_table: ^4.0.1
   meta: ^1.14.0
   args: ^2.3.1
